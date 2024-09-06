@@ -1,5 +1,5 @@
 # Advance Python
-Learning advance python to get a better oppertinities in near future. the following are the topics which is covered in this section mentioned below.
+Learning advance python to get a better opportunity in near future. the following are the topics which is covered in this section mentioned below.
 1. List Comprehension.
 2. Python Dictionary Comprehension
 3. Lambda Operator
